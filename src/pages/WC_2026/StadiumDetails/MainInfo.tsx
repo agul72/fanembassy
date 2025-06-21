@@ -1,5 +1,5 @@
 import { iStadium } from "@/services/stadiums/iStadium";
-import s from "./styles/mainInfo.module.scss";
+import s from "./styles/maininfo.module.scss";
 
 interface Props {
   stadium: iStadium;
