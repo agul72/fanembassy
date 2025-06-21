@@ -1,0 +1,37 @@
+.container {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  padding: 1rem;
+  
+  height: 100%;
+  overflow-y: auto;
+}
+
+.section {
+  background: var(--card-bg);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.tabButton {
+  background: var(--tab-bg);
+  color: var(--text-color);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+
+  &.active {
+    background: var(--tab-bg-active);
+    color: var(--tab-color-active);
+  }
+}

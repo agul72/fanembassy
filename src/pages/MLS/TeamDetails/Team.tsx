@@ -1,4 +1,4 @@
-import { iTeam } from "../../services/teams/iTeam";
+import { iTeam } from "../../../services/teams/iTeam";
 
 import s from "./team.module.scss";
 

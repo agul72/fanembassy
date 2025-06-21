@@ -9,6 +9,7 @@ import './App.scss';
 import { useTheme } from './hooks/useTheme';
 import Home from './pages/Home';
 import MLS from './pages/MLS';
+import WC2026 from './pages/WC_2026';
 import About from './pages/About';
 
 function App(): JSX.Element {
@@ -29,6 +30,7 @@ function App(): JSX.Element {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/mls' element={<MLS changeTheme={changeThemeBtnClickHandler} />} />
+        <Route path='/wc2026' element={<WC2026 changeTheme={changeThemeBtnClickHandler} />} />
         <Route path='/about' element={<About />} />
       </Routes>
 

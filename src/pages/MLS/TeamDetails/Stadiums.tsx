@@ -1,4 +1,4 @@
-import { iStadium } from "../../services/teams/iTeam";
+import { iStadium } from "../../../services/teams/iTeam";
 import s from "./team.module.scss";
 
 interface Props {

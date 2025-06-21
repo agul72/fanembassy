@@ -132,7 +132,7 @@ body {
 
 #hero-content__p {
   text-transform: none;
-  font-family: "Dancing Script", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: italic;
   font-size: calc(var(--index) * 1.5);
   line-height: 3;
@@ -150,7 +150,8 @@ body {
   padding: 1rem 2rem;
   cursor: pointer;
   display: block;
-  width: 15rem;
+  width: 75%;
+  margin-bottom: 0.5em;
 }
 
 #layer-5 {

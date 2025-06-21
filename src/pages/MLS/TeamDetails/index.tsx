@@ -3,7 +3,7 @@ import Airports from "./Airports";
 import Highlights from "./Highlights";
 import Action from "./Action";
 import Team from "./Team";
-import { iTeam } from "../../services/teams/iTeam";
+import { iTeam } from "../../../services/teams/iTeam";
 import Roads from "./Roads";
 
 import s from "./team.module.scss";

@@ -1,4 +1,4 @@
-import { iAirport } from "../../services/teams/iTeam";
+import { iAirport } from "../../../services/teams/iTeam";
 
 import s from "./team.module.scss";
 

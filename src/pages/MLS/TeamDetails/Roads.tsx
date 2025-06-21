@@ -1,4 +1,4 @@
-import { iRoad } from "../../services/teams/iTeam";
+import { iRoad } from "../../../services/teams/iTeam";
 
 import s from "./team.module.scss";
 

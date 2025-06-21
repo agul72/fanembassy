@@ -1,4 +1,4 @@
-import { iInterestHighlight } from "../../services/teams/iTeam";
+import { iInterestHighlight } from "../../../services/teams/iTeam";
 
 import s from "./team.module.scss";
 

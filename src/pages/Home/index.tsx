@@ -73,6 +73,7 @@ function Home(): JSX.Element {
               Your go-to for soccer stadiums in the US and beyond
             </div>
             <Link to="/mls" className="button start">MLS</Link>
+            <Link to="/wc2026" className="button start">Word Cup 2026</Link>
           </div>
         </div>
         <div id="layer-5" className="layers__item" ></div>

@@ -3,7 +3,7 @@ import { iTeam } from '../../services/teams/iTeam';
 import { teams } from '../../services/teams';
 
 import s from './mls.module.scss';
-import TeamDetails from '../../components/TeamDetails';
+import TeamDetails from './TeamDetails';
 // import Ads from '../../components/Ads';
 
 interface Props {
