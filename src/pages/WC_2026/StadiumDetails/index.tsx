@@ -1,19 +1,19 @@
 import { iStadium } from "@/services/stadiums/iStadium";
 
 import StadiumHeader from "./StadiumHeader";
-import Airports from "./Airports";
-import PublicTransit from "./PublicTransit";
-import RideSharing from "./RideSharing";
+// import Airports from "./Airports";
+// import PublicTransit from "./PublicTransit";
+// import RideSharing from "./RideSharing";
 import MatchDay from "./MatchDay";
 import Emergency from "./Emergency";
 import Consular from "./Consular";
-import Community from "./Community";
+// import Community from "./Community";
 import Accommodation from "./Accommodation";
 import Culture from "./Culture";
 import Climate from "./Climate";
 import Experience from "./Experience";
 import FoodGuide from "./FoodGuide";
-import Digital from "./DigitalTools";
+// import Digital from "./DigitalTools";
 
 import s from "./styles/stadium.module.scss";
 import { useState } from "react";
